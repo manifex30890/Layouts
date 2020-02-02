@@ -1,2 +1,4 @@
-# Layouts
-This layout for Gesior Tfs 1.x
+# Telara Layout - OTS Template
+
+# Preview
+![telara layout preview](https://github.com/pedrogiampietro/ots_layouts/blob/Telara/preview.png)
